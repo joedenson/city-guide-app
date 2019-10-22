@@ -10,3 +10,11 @@
   width: 35px;
 }
 
+
+.navbar-toggler:focus{
+  outline: none;
+}
+
+.navbar-toggler{
+  border: none;
+}
